@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Savage",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-03T08:51:02.753241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jimmy Cooks (feat. 21 Savage)",
+      "artist": "Drake feat. 21 Savage",
+      "has_synced": true,
+      "path": "select/01_Jimmy_Cooks_(feat._21_Savage)_Drake_feat._21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sneakin' (feat. 21 Savage)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Sneakin'_(feat._21_Savage)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Child's Play (feat. 21 Savage)",
+      "artist": "Young Nudy feat. 21 Savage",
+      "has_synced": true,
+      "path": "select/03_Child's_Play_(feat._21_Savage)_Young_Nudy_feat._21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Child's Play (feat. 21 Savage)",
+      "artist": "Young Nudy",
+      "has_synced": true,
+      "path": "select/04_Child's_Play_(feat._21_Savage)_Young_Nudy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Scared (feat. 21 Savage & Doe Boy)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/05_I'm_Scared_(feat._21_Savage_&_Doe_Boy)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mister (feat. 21 Savage)",
+      "artist": "Young Nudy feat. Pi’erre Bourne & 21 Savage",
+      "has_synced": true,
+      "path": "select/06_Mister_(feat._21_Savage)_Young_Nudy_feat._Pi’erre_Bourne_&_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mister (feat. 21 Savage)",
+      "artist": "Young Nudy & Pi'erre Bourne",
+      "has_synced": true,
+      "path": "select/07_Mister_(feat._21_Savage)_Young_Nudy_&_Pi'erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Homecoming (feat. Lil Peep, Jgrxxn, Ghostemane, Kold-Blooded, OmenXiii & Brennan Savage)",
+      "artist": "Killstation",
+      "has_synced": true,
+      "path": "select/08_Homecoming_(feat._Lil_Peep,_Jgrxxn,_Ghostemane,_Kold-Blooded,_OmenXiii_&_Brennan_Killstation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "10 Freaky Girls (feat. 21 Savage)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/09_10_Freaky_Girls_(feat._21_Savage)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Come Out The House (feat. 21 Savage)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/10_Don't_Come_Out_The_House_(feat._21_Savage)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lara Versus The Savage Pack",
+      "artist": "Midnight Juggernauts",
+      "has_synced": false,
+      "path": "select/11_Lara_Versus_The_Savage_Pack_Midnight_Juggernauts.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lara Versus the Savage Pack (demo)",
+      "artist": "Midnight Juggernauts",
+      "has_synced": false,
+      "path": "select/12_Lara_Versus_the_Savage_Pack_(demo)_Midnight_Juggernauts.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
+      "artist": "Metro Boomin",
+      "has_synced": true,
+      "path": "select/13_No_More_(feat._Travis_Scott,_Kodak_Black_&_21_Savage)_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Study War (Savage Skulls Remix)",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/14_Study_War_(Savage_Skulls_Remix)_Moby.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Angel in the Night (feat. Brennan Savage & Lil Lotus)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": false,
+      "path": "select/15_Angel_in_the_Night_(feat._Brennan_Savage_&_Lil_Lotus)_Nedarb_Nagrom.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blame on Me (feat. Brennan Savage, Fantasy Camp, Lil Lotus, Jon Simmons, Smrtdeath, Horse Head & Lil Zubin)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": false,
+      "path": "select/16_Blame_on_Me_(feat._Brennan_Savage,_Fantasy_Camp,_Lil_Lotus,_Jon_Simmons,_Smrtdea_Nedarb_Nagrom.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "KEEP GOING (feat. Lil Durk, 21 Savage & Roddy Ricch)",
+      "artist": "DJ Khaled feat. Lil Durk, 21 Savage & Roddy Ricch",
+      "has_synced": true,
+      "path": "select/17_KEEP_GOING_(feat._Lil_Durk,_21_Savage_&_Roddy_Ricch)_DJ_Khaled_feat._Lil_Durk,_21_Savage_&_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "KEEP GOING (feat. Lil Durk, 21 Savage, & Roddy Ricch)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/18_KEEP_GOING_(feat._Lil_Durk,_21_Savage,_&_Roddy_Ricch)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "WAY PAST LUCK (feat. 21 Savage)",
+      "artist": "DJ Khaled feat. 21 Savage",
+      "has_synced": true,
+      "path": "select/19_WAY_PAST_LUCK_(feat._21_Savage)_DJ_Khaled_feat._21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "WAY PAST LUCK (feat. 21 Savage)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/20_WAY_PAST_LUCK_(feat._21_Savage)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Savage",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Savage_aespa.txt"
+    }
+  ]
+}
